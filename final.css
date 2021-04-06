@@ -1,0 +1,36 @@
+.commentSection{
+	border:2px solid black; height: 650px;overflow: scroll; padding :10px; background-color: gray;
+}
+#comment{
+	width: 500px; margin-left: 10px; height: 25px;
+}
+
+#name{ height: 25px; width: 200px; }
+
+#submit{
+	height: 25px; width: 100px;
+}
+
+#replybox{
+	color: black; border:1px solid black; background-color: white; border-spacing: 10px; margin-bottom: 10px;
+ display: flex; justify-content: space-between;
+
+}
+
+#firstpart{
+	display: flex; margin-top: 10px;
+	
+}
+
+#remove{
+	height: 25px; width: 100px
+}
+#postdiv{
+	margin-left: 20px;
+}
+
+.nodisplay{display: none;}
+
+.imhere{
+	display: block;
+}
